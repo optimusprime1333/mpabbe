@@ -1,0 +1,1 @@
+0-dan 15-ə qədər təkrarlanan JavaScript for loopu yazın. Hər iterasiya üçün o, cari nömrənin tək və ya cüt olduğunu yoxlayır və ekranda mesaj göstərir.

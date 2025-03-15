@@ -1,0 +1,19 @@
+.was{
+color: yellow;
+
+
+}
+.ds{
+height: 230px;
+
+}
+nav:hover{
+background-color: red;
+width: 55px;
+height: 55px;
+}
+.tru{
+background-color: green;
+border: 2px solid gray;
+height: 230px;
+}
